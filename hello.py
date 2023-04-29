@@ -1,4 +1,3 @@
-msg = "hjnhk"
-msgtwo = "hknjkjkj"
+msg = "Hello World"
+
 print(msg)
-print(msgtwo)
