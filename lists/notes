@@ -1,0 +1,13 @@
+Lists[]:
+
+# To remove elemets we can use remove, pop and del commands
+1. nums.remove(index)
+2. nums.pop(i)
+3. del nums[start: stop]
+
+# To add a element we can use append, insert and extend commands
+1. nums, insert(index, element)
+2. nums.append(elements)			{will add the element at the last index.}
+3. nums.extend([a,b,c,d])			{will take the input as a list.}
+
+# we can use inbuilt functions like sum, min , max, sort
