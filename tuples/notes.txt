@@ -1,0 +1,5 @@
+Tuples():
+
+1. Tuples are immuatble
+2. tuples iteration is faster than lists
+
