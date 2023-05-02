@@ -1,0 +1,10 @@
+# operations on variables:
+
+1. To get the id of a variable we use id(variable name)
+2. Assigning var1 to var2:
+    a = 10
+    b = a
+   Now if we find the id of a and b....we will get the same value , that's mean a and b are both pointing to the same object i.e, 10
+3. To find the data type of a variable we use type() functions.
+
+# In python we cannot convert a variable into a constant.
