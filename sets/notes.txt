@@ -1,0 +1,7 @@
+Sets{} :
+
+1.  s = {1,2,3,4,5}
+2.  sets never follow a sequence....if we print 's' we will not get the output in same order as we have entered.
+3.  repeated elements are only printed once.
+4.  indexing is not supported
+5.  sets supports built in functions like pop(), remove()
