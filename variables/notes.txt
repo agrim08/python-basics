@@ -6,5 +6,6 @@
     b = a
    Now if we find the id of a and b....we will get the same value , that's mean a and b are both pointing to the same object i.e, 10
 3. To find the data type of a variable we use type() functions.
-
+   for ex. type(a) will give 'int' as an output
+   
 # In python we cannot convert a variable into a constant.
