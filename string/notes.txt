@@ -1,0 +1,5 @@
+Strings:
+
+1. string are immutable
+2. we can join two strings using + 
+3. we can operate on strings using index
