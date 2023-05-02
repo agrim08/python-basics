@@ -1,0 +1,9 @@
+Dictionary {} :
+
+# data = {1 : 'abc', 2: 'def'}
+
+1. We have a key: value pair.
+2. Kyes are unique and immuatable
+3. we can operate dict. using keys
+ex. data.get(1)				[will print abc]
+4.  we can add a new key:value pair in a dict.
