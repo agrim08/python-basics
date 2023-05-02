@@ -7,3 +7,7 @@ Dictionary {} :
 3. we can operate dict. using keys
 ex. data.get(1)				[will print abc]
 4.  we can add a new key:value pair in a dict.
+5.  If we want to merge two list (one of key and other of values) we can use 
+    dict(zip(L1, L2))
+6.  to delete a particular pair we can use 'del' command
+    del data(1)
