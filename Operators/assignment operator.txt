@@ -1,0 +1,11 @@
+Simple assignment operator ( = )
+Add and equal operator ( += )
+Subtract and equal operator ( -= )
+Asterisk and equal operator ( *= )
+Divide and equal operator ( /= )
+Modulus and equal operator ( %= )
+Double divide and equal operator ( //= )
+
+
+Ex. x+=2
+output = 7
